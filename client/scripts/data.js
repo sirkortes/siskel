@@ -1,4 +1,4 @@
-var movieData = [
+var movieData = [ 
   {
     title: 'Back to the Future',
     year: 1985,
